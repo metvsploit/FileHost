@@ -1,0 +1,11 @@
+.audun_warn {
+    color: #ffffff;
+    background-color: #FF8080;
+    font-family: 'Source Sans Pro', sans-serif;
+    border-radius:.5em;
+    border: 1px solid;
+    margin: 10px 0px;
+    padding:12px;
+    width: 400px;
+    margin: 150px auto;
+}
